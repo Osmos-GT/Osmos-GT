@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Привет!
-
 <br />
 
-Изучаю Git и ещё несколько интересных технологий.
+I'm learning Git and some other interesting technologies.
 
 <br />
 

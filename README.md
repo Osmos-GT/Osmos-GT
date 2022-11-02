@@ -37,5 +37,5 @@ I'm learning Git and some other interesting technologies.
 <!-- TODO-IST:START -->
 * [x] Прокачать свой профиль на Github
 * [x] Создать свой первый проект на Github       
-* [ ] Пройти курс по Git на Slurm
+* [x] Пройти курс по Git на Slurm
 <!-- TODO-IST:END -->

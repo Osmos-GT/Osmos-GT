@@ -38,4 +38,8 @@ I'm learning Git and some other interesting technologies.
 * [x] Прокачать свой профиль на Github
 * [x] Создать свой первый проект на Github       
 * [x] Пройти курс по Git на Slurm
+* [x] Пройти курс по Ansible на Slurm
+* [x] Пройти курс по Docker на Slurm
+* [x] Пройти курс по Kubernetes на Slurm
+* [ ] Пройти курс по мониторингу и логгированию в Kubernetes на Slurm
 <!-- TODO-IST:END -->

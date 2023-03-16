@@ -42,7 +42,7 @@ I'm learning Kubernetes and some other interesting technologies.
 * [x] Пройти курс по Docker на Slurm
 * [x] Пройти курс по Kubernetes на Slurm
 * [x] Пройти курс по мониторингу и логгированию в Kubernetes на Slurm
-* [х] Пройти курс по Terraform на Slurm
-* [х] Пройти курс по CI/CD на Slurm
+* [x] Пройти курс по Terraform на Slurm
+* [x] Пройти курс по CI/CD на Slurm
 * [ ] Пройти курс Kubernetes Мега на Slurm
 <!-- TODO-IST:END -->
